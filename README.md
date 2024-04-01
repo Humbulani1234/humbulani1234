@@ -2,7 +2,10 @@
 
 - 🔭 I’m currently working on ...
   
-    - **Web based** application that models probability of default using Machine Learning algorithms
+    - [machine learning web based app](http://ec2-13-245-13-44.af-south-1.compute.amazonaws.com/): this application calculates the probability of default for a customer using machine learning and statistical algorithms. It is a web based application accessible from a web browser.
+    - [booking system](http://13.245.13.44/carwash): this application allows customers to book in cars at particular times for a carwash service.
+    - [options models app](https://humbulani.pythonanywhere.com/Dupire): this application determines the prices of quantitative finance derivatives – options.
+    - [data pipeline](https://github.com/Humbulani1234/Apache-Airflow): this application extracts data from websites, cleans it and stores it in a MySQL database – ETL.
   
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
