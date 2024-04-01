@@ -14,18 +14,4 @@
 
  - [🤗 Huggingface Transformers](https://github.com/huggingface/transformers/issues/29584)
 
- - [![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/11ab0147-869e-4abd-b774-45267ad65f2e)](https://github.com/benoitc/gunicorn/issues/3163)
-
-
-
-<!--
-**Humbulani1234/humbulani1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+ - [![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/11ab0147-869e-4abd-b774-45267ad65f2e) Gunicorn](https://github.com/benoitc/gunicorn/issues/3163)
