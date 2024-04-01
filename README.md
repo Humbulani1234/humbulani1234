@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 
-  **Web based** application that models probability of default using Machine Learning algorithms
+  
+    **Web based** application that models probability of default using Machine Learning algorithms
   
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
