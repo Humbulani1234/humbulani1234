@@ -12,6 +12,9 @@
 
 ### Open Source Contributions
 
+https://github.com/huggingface/transformers/issues/29584
+
+
 <!--
 **Humbulani1234/humbulani1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
