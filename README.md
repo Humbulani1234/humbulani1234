@@ -12,7 +12,7 @@
 
 ### Open Source Contributions
 
-https://github.com/huggingface/transformers/issues/29584
+[Huggingface Transformers](https://github.com/huggingface/transformers/issues/29584)
 
 
 <!--
