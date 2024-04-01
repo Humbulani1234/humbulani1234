@@ -12,9 +12,22 @@
    - [ A written book about large codebases](http://13.245.13.44/pdfs/combined_total.pdf): How large codebases work and their design philosophy, particulary Keras, AutoKeras, Django, Gunicorn. Nginx and Scikit-Learn, among others.
   
 - 👯 I’m looking to collaborate on ...
+  
+    - The applications I'm currently developing including the above book.
+      
 - 🤔 I’m looking for help with ...
+  
+    - In relation to the above book
+      
 - 💬 Ask me about ...
+  
+    - Pure mathemtics
+    - Machine Learning
+    - Statistics
+      
 - 📫 How to reach me: ...
+
+    - [Website footer about](http://ec2-13-245-13-44.af-south-1.compute.amazonaws.com/)
 
 ### Open Source Contributions
 
