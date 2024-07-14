@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning ...
   
-   - [ A written book about large codebases](http://13.245.13.44/pdfs/combined_total.pdf): How large codebases work and their design philosophy, particulary Keras, AutoKeras, Django, Gunicorn. Nginx and Scikit-Learn, among others.
+   - [ Writing a book about large codebases](http://13.245.13.44/pdfs/combined_total.pdf): How large codebases work and their design philosophy, particulary Keras, AutoKeras, Django, Gunicorn. Nginx and Scikit-Learn, among others.
   
 - 👯 I’m looking to collaborate on ...
   
