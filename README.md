@@ -29,6 +29,22 @@
 
     - [Website footer about](http://ec2-13-245-13-44.af-south-1.compute.amazonaws.com/)
 
+### Tech Stack
+[![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/badfcf0d-9053-4ce8-92d7-23c1b89d714d)](https://github.com/huggingface/transformers/issues/29584)  [![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/11ab0147-869e-4abd-b774-45267ad65f2e)](https://github.com/benoitc/gunicorn/issues/3163)  ![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/f60712e2-f567-4d22-8305-ba4f93e40c82)![image](https://github.com/user-attachments/assets/e2e64295-1d70-46d4-84e1-484668061ef3)
+
+![image](https://github.com/user-attachments/assets/7efdb087-39c7-4657-a3e2-3bb90b9ae632) ![image](https://github.com/user-attachments/assets/90674846-7eea-4065-b73f-b9e859e4b0e4)
+
+![image](https://github.com/user-attachments/assets/0e09cca7-97d4-4ed7-a692-02616df3f10e) ![image](https://github.com/user-attachments/assets/40d130bf-dc90-4772-bfa1-01bb98c75cde) ![image](https://github.com/user-attachments/assets/201baac2-e9f0-4e68-8cda-5708b209603a)
+
+![image](https://github.com/user-attachments/assets/063be06d-5e12-415b-9897-e608f5bb6dda)
+
+
+
+
+
+
+
+
 ### Open Source Contributions
 
 [![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/badfcf0d-9053-4ce8-92d7-23c1b89d714d)](https://github.com/huggingface/transformers/issues/29584) 
