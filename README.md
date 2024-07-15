@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt text](https://github.com/Humbulani1234/django-default/blob/main/Screenshot_15-7-2024_183320_github.com.jpeg)
+
 - 🔭 I’m currently working on ...
   
     - [machine learning web based app](http://ec2-13-245-13-44.af-south-1.compute.amazonaws.com/): this application calculates the probability of default for a customer using machine learning and statistical algorithms. It is a web based application accessible from a web browser.
