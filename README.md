@@ -2,7 +2,7 @@
 
 ![Alt text](https://github.com/Humbulani1234/django-default/blob/main/Screenshot_15-7-2024_183320_github.com.jpeg)
 
-![Alt text](https://github.com/Humbulani1234/C/blob/main/Screenshot_15-7-2024_18427_github.com.jpeg)
+![Alt text](https://github.com/Humbulani1234/C/blob/main/Screenshot_15-7-2024_18427_github.com.jpeg) ![Alt text](https://github.com/Humbulani1234/scripts/blob/main/Screenshot_15-7-2024_184959_github.com.jpeg)
 
 - 🔭 I’m currently working on ...
   
