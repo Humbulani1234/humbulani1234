@@ -28,6 +28,7 @@
     - Mathematics 
     - Machine/Deep Learning
     - Mathematical Statistics
+    - Project Management
       
 - 📫 How to reach me: ...
 
