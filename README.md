@@ -21,7 +21,7 @@
       
 - 🤔 I’m looking for help with ...
   
-    - In relation to the above book
+    - In relation to the above book I'm busy working on about large codebases 
       
 - 💬 Ask me about ...
   
@@ -33,7 +33,7 @@
 
     - [Website footer about](http://ec2-13-245-13-44.af-south-1.compute.amazonaws.com/)
 
-- :hammer_and_wrench: Skills & Experience
+- :hammer_and_wrench: Skills & Experience...
 
   - <b>Frontend:</b> HTML, CSS, JavasScript
   - <b>Backend:</b> Django, Nginx, Gunicorn, Ubuntu, PostgreSQl,
