@@ -25,9 +25,9 @@
       
 - 💬 Ask me about ...
   
-    - Pure mathematics
-    - Machine Learning
-    - Statistics
+    - Mathematics 
+    - Machine/Deep Learning
+    - Mathematical Statistics
       
 - 📫 How to reach me: ...
 
