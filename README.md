@@ -25,7 +25,7 @@
       
 - 💬 Ask me about ...
   
-    - Pure mathemtics
+    - Pure mathematics
     - Machine Learning
     - Statistics
       
