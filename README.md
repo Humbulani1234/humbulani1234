@@ -47,6 +47,10 @@
 ### Open Source Contributions
 ---
 
+[![image](https://avatars.githubusercontent.com/u/34455048?s=200&v=4)](https://github.com/keras-team/keras-io/pull/2019)
+
+[![image](https://avatars.githubusercontent.com/u/15658638?s=200&v=4)](https://github.com/tensorflow/tensorflow/issues/62075#issuecomment-2310327870)
+
 [![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/badfcf0d-9053-4ce8-92d7-23c1b89d714d)](https://github.com/huggingface/transformers/issues/29584) 
 
 [![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/11ab0147-869e-4abd-b774-45267ad65f2e)](https://github.com/benoitc/gunicorn/issues/3163) 
