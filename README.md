@@ -47,7 +47,7 @@
 ### Open Source Contributions
 ---
 
-[![image](https://avatars.githubusercontent.com/u/34455048?s=200&v=4)](https://github.com/keras-team/keras-io/pull/2019)
+[![image](https://avatars.githubusercontent.com/u/34455048?s=200&v=4)](https://keras.io/examples/structured_data/class_with_grn_and_vsn_with_hyperparameters_tuning/)
 
 [![image](https://avatars.githubusercontent.com/u/15658638?s=200&v=4)](https://github.com/tensorflow/tensorflow/issues/62075#issuecomment-2310327870)
 
