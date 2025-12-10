@@ -32,7 +32,7 @@
       
 - 📫 How to reach me: ...
 
-    - [Website footer](http://13.244.159.34/blog/home/page/)
+    - [Website footer](http://13.244.159.35/blog/home/page/)
 
 - :hammer_and_wrench: Skills & Experience...
 
