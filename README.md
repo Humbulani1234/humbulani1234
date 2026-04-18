@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning ...
   
-   - [ Writing a blog about large codebases](https://origintracer.app): How large codebases work and their design philosophy, particulary Keras, AutoKeras, Django, Gunicorn. Nginx and Scikit-Learn, among others.
+   - [ Working on origintracer](https://origintracer.app): How large codebases work and their design philosophy, particulary Keras, AutoKeras, Django, Gunicorn. Nginx and Scikit-Learn, among others.
   
 - 👯 I’m looking to collaborate on ...
   
