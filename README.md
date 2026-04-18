@@ -9,7 +9,6 @@
   
     - [machine learning web based app](http://13.244.70.250/blog/home/page/): this application calculates the probability of default for a customer using machine learning and statistical algorithms. It is a web based application accessible from a web browser.
     - [options models app](https://humbulani.pythonanywhere.com/Dupire): this application determines the prices of quantitative finance derivatives – options.
-    - [data pipeline](https://github.com/Humbulani1234/Apache-Airflow): this application extracts data from websites, cleans it and stores it in a MySQL database – ETL.
   
 - 🌱 I’m currently learning ...
   
