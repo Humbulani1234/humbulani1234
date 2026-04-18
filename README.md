@@ -48,9 +48,3 @@
 
 [![image](https://avatars.githubusercontent.com/u/34455048?s=200&v=4)](https://keras.io/examples/structured_data/class_with_grn_and_vsn_with_hyperparameters_tuning/)
 
-[![image](https://avatars.githubusercontent.com/u/15658638?s=200&v=4)](https://github.com/tensorflow/tensorflow/issues/62075#issuecomment-2310327870)
-
-[![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/badfcf0d-9053-4ce8-92d7-23c1b89d714d)](https://github.com/huggingface/transformers/issues/29584) 
-
-[![image](https://github.com/Humbulani1234/humbulani1234/assets/92155443/f60712e2-f567-4d22-8305-ba4f93e40c82)](https://github.com/python/cpython/issues/115941)
-
